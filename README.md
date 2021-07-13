@@ -1,1 +1,1 @@
-Linked lists notes and practice
+Notes and practice on linked lists for Bloc
